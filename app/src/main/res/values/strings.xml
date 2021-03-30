@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TwoActivities</string>
+    <string name="second_activity_text_view_text">Start Time = %d; %s</string>
+</resources>
